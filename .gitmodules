@@ -1,3 +1,4 @@
-[submodule "Assets/0A_MetaFrame"]
-	path = Assets/0A_MetaFrame
+
+[submodule "Assets/A.01_MetaFrame"]
+	path = Assets/A.01_MetaFrame
 	url = https://github.com/MetaNomads/MetaFrame-Unity
